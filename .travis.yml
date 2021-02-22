@@ -22,3 +22,4 @@ after_success:
   - docker push vadimshavlovski/multi-nginx
   - docker push vadimshavlovski/multi-server
   - docker push vadimshavlovski/multi-worker
+
